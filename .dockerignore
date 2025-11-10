@@ -1,19 +1,20 @@
-Dependencies and Builds
-
-node_modules
-build
-
-Local data (Strapi uses SQLite locally)
-
-.cache
-.tmp
-.env
-database
 .git
 .gitignore
+.env
+.env.example
+.eslintignore
+.eslintrc
+.prettierrc
+.prettierignore
 
-Logs
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+build
+dist
+node_modules
+.tmp
+.cache
+public/uploads
+
+
+.strapi-database.db
+*.db
