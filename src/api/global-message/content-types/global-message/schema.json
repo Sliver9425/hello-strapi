@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "global_messages",
+  "info": {
+    "singularName": "global-message",
+    "pluralName": "global-messages",
+    "displayName": "GlobalMessage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "greeting": {
+      "type": "string"
+    }
+  }
+}

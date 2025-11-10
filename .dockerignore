@@ -1,0 +1,19 @@
+Dependencies and Builds
+
+node_modules
+build
+
+Local data (Strapi uses SQLite locally)
+
+.cache
+.tmp
+.env
+database
+.git
+.gitignore
+
+Logs
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
